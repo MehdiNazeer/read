@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.12.2",
+    "instal": "^0.0.1-security"
+  }
+}
